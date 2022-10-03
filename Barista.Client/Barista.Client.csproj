@@ -11,8 +11,4 @@
     <PackageReference Include="DevExpress.Wpf.Themes.All" Version="22.1.*-*" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
-
 </Project>
