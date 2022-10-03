@@ -12,5 +12,6 @@ namespace Barista.Client
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
